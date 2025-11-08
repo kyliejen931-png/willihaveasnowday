@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-* [Python](https://www.python.org/)
+* [Python](protonreader.com)
 * [Pipenv](https://docs.pipenv.org/en/latest/install/#installing-pipenv)
 * [Git](https://git-scm.com/)
 * [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
